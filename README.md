@@ -11,13 +11,13 @@ Aqui você encontrará:
 * Projetos pequenos para aplicar o conhecimento adquirido.
 * Qualquer outro código relevante para minha evolução em Python.
 
-## Como Usar
+## Como Usar 
 
 Você pode explorar os arquivos e diretórios para ver o código e acompanhar meu progresso. Sinta-se à vontade para clonar este repositório e executar os códigos localmente, caso tenha interesse.
 
 Certifique-se de ter o Python instalado em sua máquina para executar os scripts.
 
-## Contribuição
+## Contribuição 
 
 * Como este é um repositório pessoal de estudos, não estou aceitando contribuições externas no momento. No entanto, agradeço o seu interesse!
 
@@ -25,8 +25,12 @@ Certifique-se de ter o Python instalado em sua máquina para executar os scripts
 
 Este repositório será atualizado regularmente com novos códigos e atividades conforme meu aprendizado avança.
 
-Autor
+## Autor 
 
-*Caio Hangai
-
+Desenvolvido por Caio Hangai como parte de estudos e práticas em Python 🐍.
+ 
 Sinta-se à vontade para entrar em contato caso tenha alguma dúvida ou sugestão!
+<a href="https://www.linkedin.com/in/caiohangai" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Caio Hangai">
+</a>
+
